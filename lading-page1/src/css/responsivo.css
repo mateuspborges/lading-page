@@ -1,0 +1,89 @@
+@media (max-width:991.98px) {
+    .painel-texto{
+        padding: 153px 40px;
+    }
+    .painel-texto h2{
+        font-size: 30px;
+    }
+    .painel-texto p{
+        font-size: 11px;
+        width: 100%;
+    }
+}
+
+@media (max-width:767.98px) {
+
+    .ladrilho .grande, .ladrilho .media{
+        width: 100%;
+    }
+    .ladrilho .pequena, .ladrilho .pequena2{
+        width: 50%;
+    }
+    .painel-contato{
+        background: url(../images/fundo-contato.jpg) left center no-repeat;}
+        
+
+    }
+
+
+@media (max-width:425px) {
+    .menu .logo {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .menu nav {
+        position: static;
+        text-align: center;
+        width: 100%;
+    }
+
+    .menu nav ul li {
+        display: block;
+    }
+
+    .menu nav ul li a {
+        width: 100%;
+        display: block;
+    }
+    .painel h2{
+        margin: 0 auto;
+        font-size: 1.9rem;
+    }
+    .rodape{
+        text-align: center;
+        background-image: none;
+        background-color: black;
+    }
+    .rodape .logo{
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 122px;
+         
+
+    }
+    .rodape ul{
+        display: block;
+        width: 100%;
+        margin-bottom: 122px;        
+    }
+    .rodape ul li{
+        display: block;
+    }
+    .rodape ul li a{
+        font-size: 2rem;
+        display: block;
+    }
+    .rodape .redesociais{
+        float: none;
+        margin-bottom: 28px;
+    }
+}
+@media (max-width:375px) {
+    .ladrilho .grande, .ladrilho .media{
+        width: 100%;
+    }
+    .ladrilho .pequena, .ladrilho .pequena2{
+        width: 100%;
+    }
+}
